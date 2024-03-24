@@ -1,4 +1,4 @@
-# Exercise-05a-Movement
+# Yasmpate-Exercise-05a-Movement
 
 Exercise for MSCH-C220
 
@@ -15,4 +15,4 @@ None
 None
 
 ## Created by 
- 
+Yash Patel
